@@ -63,12 +63,12 @@ To set up any of these projects locally:
    ```bash
    cd repository-name
    
-4. **Open the Project:**
+3. **Open the Project:**
 
    ```bash
    Open index.html in your web browser to view the project.
 
-5. **Contact:**
+4. **Contact:**
 
    For questions or feedback, reach out to BhagyashreeMP at [bhagyashreeakshay019@gmail.com].
 
