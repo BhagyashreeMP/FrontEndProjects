@@ -11,7 +11,7 @@ A modern and responsive web interface for a chair retailer, providing an engagin
 - **Features:** Product display with images and pricing, interactive shopping cart, responsive design.
 - **Technologies:** HTML, CSS, JavaScript.
 
-**[View Project](https://github.com/yourusername/chair-business-frontend-dashboard)**
+**[View Project](https://github.com/BhagyashreeMP/FrontEndProjects/blob/main/Chairs/index.html)**
 
 ### 2. Hoodie E-Commerce
 
